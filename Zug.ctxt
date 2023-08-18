@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Zug
+comment1.params=
+comment1.target=Zug()
+comment2.params=vonReihe\ vonSpalte\ zuReihe\ zuSpalte
+comment2.target=Zug(int,\ int,\ int,\ int)
+numComments=3

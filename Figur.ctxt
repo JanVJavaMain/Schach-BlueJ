@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Figur
+comment1.params=spieler
+comment1.target=Figur(Spieler)
+comment2.params=
+comment2.target=java.lang.String\ typ()
+comment3.params=
+comment3.target=Spieler\ spieler()
+comment3.text=gibt\ Spieler\ zurueck,\ dem\ die\ Figur\ gehoert\ \ *
+comment4.params=zug\ brett
+comment4.target=boolean\ istGueltigerZug(Zug,\ ISchachFigur[][])
+comment4.text=\ \ Diese\ Methode\ wird\ von\ der\ Klasse\ jeder\ Figur\ aufgerufen,\ da\ es\ sich\ hierbei\ um\ eine\ Methode\ handelt,\ die\ bei\ allen\ Figuren,\ v.a.,\nwenn\ man\ sie\ bewegen\ will,\ Anwendung\ findet.*
+numComments=5

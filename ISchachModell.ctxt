@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ISchachModell
+comment1.params=
+comment1.target=boolean\ istFertigAufgebaut()
+comment2.params=zug
+comment2.target=void\ bewegeFigur(Zug)
+comment3.params=s
+comment3.target=boolean\ imSchach(Spieler)
+comment4.params=
+comment4.target=Spieler\ derzeitigerSpieler()
+comment5.params=
+comment5.target=int\ numReihe()
+comment6.params=
+comment6.target=int\ numSpalte()
+comment7.params=reihe\ spalte
+comment7.target=ISchachFigur\ figurBei(int,\ int)
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ISchachFigur
+comment1.params=
+comment1.target=Spieler\ spieler()
+comment2.params=
+comment2.target=java.lang.String\ typ()
+comment3.params=zug\ board
+comment3.target=boolean\ istGueltigerZug(Zug,\ ISchachFigur[][])
+numComments=4
